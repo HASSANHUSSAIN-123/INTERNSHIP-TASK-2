@@ -1,3 +1,8 @@
+Hassan Hussain
+
+DHC-9759
+
+
 **Internship Task 2 — Stock Price Prediction using Machine Learning**
 
 **Overview**
